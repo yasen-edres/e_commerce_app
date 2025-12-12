@@ -40,8 +40,17 @@ dependencies:
   fluttertoast: ^9.0.0
   auto_size_text: ^3.0.0
   flutter_native_splash: ^2.4.7
+  retrofit: ^4.9.1
+  logger: ^2.6.2
+  json_annotation: ^4.9.0
+  dio: ^5.9.0
+  injectable: ^2.7.1+2
+  pretty_dio_logger: ^1.4.0
 
 dev_dependencies:
+  retrofit_generator: ^10.0.1
+  build_runner: ^2.6.0
+  json_serializable: ^6.10.0
   flutter_test:
     sdk: flutter
 
