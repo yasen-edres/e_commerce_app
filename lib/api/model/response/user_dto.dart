@@ -16,10 +16,10 @@ class UserDto {
   });
 
   factory UserDto.fromJson(Map<String, dynamic> json) {
-    return _$UserFromJson(json);
+    return _$UserDtoFromJson(json);
   }
 
   Map<String, dynamic> toJson() {
-    return _$UserToJson(this);
+    return _$UserDtoToJson(this);
   }
 }
